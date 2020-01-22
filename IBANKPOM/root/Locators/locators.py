@@ -26,8 +26,27 @@ class LocatorsC():
     # AccountPage Object Locators
     send_to_3rd_party_btn_xpath = "//div[@class='row submenu text-center mx-1 mt-3']//div[2]//div[1]//div[1]"
     enter_country_textbox_xpath = "//input[@id='destination']"
-    select_country_option_xpath = "//span[contains(text(),'United Kingdom')]"
-    clk_statement_acct_box_xpath = ""
-    open_dom_acct_xpath = "//p[contains(text(),'Open Domiciliary Account')]"
-    open_additional_act_xpath = "//p[contains(text(),'Open Additional Account')]"
+    #select_country_option_xpath = "//span[contains(text(),'United Kingdom')]"
+
+    # same locator //*[@id="accountToDebit"] (mikey to change this)
+    enter_statement_acct_textbox_xpath = "//input[@id='statementAccount']"
+
+    #open_dom_acct_xpath = "//p[contains(text(),'Open Domiciliary Account')]"
+    #open_additional_act_xpath = "//p[contains(text(),'Open Additional Account')]"
+    select_start_date_icon_xpath = "//div[@class='form-group col-6 px-1']//*[@class='feather feather-calendar']"
+    select_start_date_xpath = "//div[contains(text(),'1')]"
+    select_end_date_icon_xpath = "//div[@class='form-group col-6 px-1 mb-0']//*[@class='feather feather-calendar']"
+    select_end_date_xpath = "//div[contains(text(),'31')]"
+
+    # same locator //*[@id="accountToDebit"] (mikey to change this)
+    enter_account_to_debit_xpath = "//*[@id='accountToDebit']"
+
+    enter_role_xpath = "//input[@id='role']"
+    enter_applicant_xpath = "//input[@id='applicant']"
+    click_send_statement_btn_xpath = "//button[@id='validate']"
+    click_ok_bt_xpath = "//button[@class='btn btn-round btn-light btn-sm px-3 mx-auto']"
+    enter_token_xpath = "//input[@id='token']"
+    submit_btn_xpath = "//button[@class='btn btn-sm btn-primary mr-2 btn-round pull-right ng-tns-c21-58 ng-star-inserted']"
+
+
 

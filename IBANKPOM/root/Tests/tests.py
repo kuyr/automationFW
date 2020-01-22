@@ -2,7 +2,7 @@ import os
 import time
 import unittest
 #import HtmlTestRunner
-from selenium.webdriver.common.keys import Keys
+#from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 from root.Pages.login_page import LoginPage
 from root.Pages.dashboard_page import DashBoardPage
@@ -14,7 +14,7 @@ class TestSuite(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.driver = webdriver.Firefox()
-        cls.driver.implicitly_wait(20)
+        cls.driver.implicitly_wait(30)
         # cls.driver.maximize_window()
         cls.driver.get('http://10.0.6.11:8080/')
 
@@ -33,16 +33,12 @@ class TestSuite(unittest.TestCase):
         login.click_login_btn()
         print('login successfully')
 
-
-
-
-
     def test_02_dashboard(self):
         driver = self.driver
         dashboard = DashBoardPage(driver)
         self.driver.implicitly_wait(5)
         self.assertIn("Dashboard", self.driver.title)
-        self.assertIn("Frequent Transaction", self.driver.page_source)
+        self.assertEqual("Frequent Transaction", self.driver.page_source)
         self.assertIn("Frequent Transfers", self.driver.page_source)
         self.assertIn("Frequent Topup", self.driver.page_source)
         self.assertIn("Frequent Bills", self.driver.page_source)
@@ -57,30 +53,17 @@ class TestSuite(unittest.TestCase):
     def test_03_accounts(self):
         driver = self.driver
         account = AccountPage(driver)
-        account.send_to_3rd_party_check()
-        self.assertIn("Generate Statement", self.driver.title)
-        account.send_to_3rd_party_check()
-        driver.find_element_by_xpath("//span[contains(text(),'United Kingdom')]").click()
-        driver.find_element_by_xpath("//div[@id='aa01fee5fafe-0']//p[1]").click()
+        account.driver.implicitly_wait(30)
+        account.click_send_to_3rd_party()
+        account.enter_country_name("Austria")
+        account.select_statement("Ayegbusi")
+        account.select_start_and_end_date()
+        account.enter_account_to_debit("Ayegbusi")
+        account.enter_role("Applicant")
+        account.enter_applicant("Automated Test")
+        account.click_ok()
+        account.enter_token("123456")
 
-        time.sleep(5)
-        print('Generate Statement Check successful')
-
-    def test_04_account_open_dom_act(self):
-        driver = self.driver
-        account = AccountPage(driver)
-        account.open_dorm_acct_check()
-        time.sleep(5)
-        self.assertIn("Open Dom Account", self.driver.title)
-        print('Open Dom Account Check successful')
-
-    def test_05_account_open_additional_act(self):
-        driver = self.driver
-        account = AccountPage(driver)
-        account.open_additional_acct_check()
-        time.sleep(5)
-        self.assertIn("Add Additional Account", self.driver.title)
-        print('Open Additional Account Successful')
 
 if __name__ == "__main__":
     unittest.main()

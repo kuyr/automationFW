@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9955f870-3220-4184-81e7-90449225571d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Login" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gaps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IBANKPOM/.idea/dictionaries/emmanuel_kuye.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/.idea/IBANKPOM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/.idea/IBANKPOM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/Locators/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/Locators/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/Pages/account_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/Pages/account_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/Tests/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/Tests/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/Tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/Tests/tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file:$PROJECT_DIR$/../../../../../..//$USER_HOME$/Desktop/GAPS Scripts/Login">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,8 +51,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,9 +113,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24904943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -138,16 +137,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/LoginTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/LoginTest.py" />
     <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/Login">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -155,8 +145,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:$PROJECT_DIR$/../../../../../..//$USER_HOME$/Desktop/GAPS Scripts/Login">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file:$PROJECT_DIR$/../../../../../..///C:/Users/oghenetega.ekakitie/Desktop/GAPS Scripts/Login" />
   </component>
 </project>

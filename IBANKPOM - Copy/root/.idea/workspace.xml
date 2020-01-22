@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15df223c-a9aa-4bb8-a24a-d1613c44f78a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/.idea/root.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Locators/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Pages/account_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Pages/dashboard_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Pages/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Reports/Test Results - Unittests_for_tests_TestSuite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Tests/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Tests/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/Tests/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenasRoot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/Locators/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/Pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/Pages/account_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/Pages/dashboard_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/Pages/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/tests/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rooot/tests/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IBANKPOM/.idea/dictionaries/emmanuel_kuye.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/.idea/IBANKPOM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/.idea/IBANKPOM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/Locators/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/Locators/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/Pages/account_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/Pages/account_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/Tests/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/Tests/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IBANKPOM/root/Tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../IBANKPOM/root/Tests/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gaps/root/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gaps/root/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="e#11#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/account_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tests/tests.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="497" />
+    <option name="y" value="41" />
+    <option name="width" value="995" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+              <item name="Locators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in tests.py">
+    <configuration name="Unittests for tests.TestSuite" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="root" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.TestSuite&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="root" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in tests.py" />
+        <item itemvalue="Python tests.Unittests for tests.TestSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15df223c-a9aa-4bb8-a24a-d1613c44f78a" name="Default Changelist" comment="" />
+      <created>1571318813269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571318813269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_tests_TestSuite - 2019.10.18 at 12h 50m 38s.xml">
+      <configuration name="Unittests for tests.TestSuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_py - 2019.11.06 at 14h 42m 09s.xml">
+      <configuration name="Unittests in tests.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15145755" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Pages/account_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="e#11#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
